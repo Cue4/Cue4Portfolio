@@ -5,9 +5,10 @@ function Resume() {
         <a href="/path-to-resume.pdf" download>Download Resume</a>
         <h3>Skills</h3>
         <ul>
-          <li>JavaScript</li>
-          <li>React</li>
           <li>HTML & CSS</li>
+          <li>JavaScript</li>
+          <li>PostSQL</li>
+          <li>React</li>
         </ul>
       </section>
     );
