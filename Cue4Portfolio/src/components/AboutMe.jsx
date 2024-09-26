@@ -2,7 +2,6 @@ function AboutMe() {
     return (
       <section>
         <h2>About Me</h2>
-        <img src="/path-to-your-photo.jpg" alt="Developer" />
         <p> Hello! I am Caliph Ferguson, an enthusiastic and driven individual with a keen interest in computer coding. 
             While I may not have professional experience yet, I am deeply passionate about technology and eager to embark on a career in software development. 
             My journey into coding began with coding bootcamp classes through Ohio State University.
