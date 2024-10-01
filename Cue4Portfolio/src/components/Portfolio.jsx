@@ -1,8 +1,10 @@
-import Project from './Portfolio';
+import React from 'react';
+import Project from './Project';
 
 function Portfolio() {
   const projects = [
-    { title: 'Project 1', link: 'https://github.com/project1', image: '/project1.png' },
+    { title: 'Project 1', link: 'https://github.com/mkeeney42/Film-Fanatics.git', image: 'placeholder' },
+    { title: 'Project 2', link: 'https://github.com/valyastriz/daily-echo', image: 'placeholder'}
    
   ];
 
